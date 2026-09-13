@@ -1,6 +1,5 @@
 <div id="header" align="center">
 🌿 Software developer building ideas into software ·ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🌲 Always learning. Always building. Always curious.
-  ⠀
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVnajB3eHZkMmdjeGlua2tuZDF0N3JiemV6b2FoZm1qcWNpanBtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" width="100"/>
 ⠀
 </div>
